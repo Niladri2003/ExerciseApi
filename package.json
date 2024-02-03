@@ -2,6 +2,7 @@
   "name": "exercisedb",
   "version": "0.0.0",
   "private": true,
+  "main": "www.js",
   "scripts": {
     "start": "node www",
     "dev": "nodemon www"
